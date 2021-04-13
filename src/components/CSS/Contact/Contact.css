@@ -1,0 +1,91 @@
+.contact-wrapper {
+  overflow: hidden;
+  position: absolute;
+  top: 278em;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.contact-wrapper .contact-footer {
+  padding-top: 10em;
+  background-color: #2b2b2b;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+  height: 40vh;
+}
+
+.contact-wrapper .contact-footer .section-four {
+  position: absolute;
+  margin-left: 10em;
+  margin-bottom: 34em;
+  font-family: 'Playfair Display', serif;
+  font-size: 10px;
+  color: #cecece;
+}
+
+.contact-wrapper .contact-footer .gray-line {
+  position: absolute;
+  margin-bottom: 20em;
+  margin-left: 5em;
+  background-color: #cecece;
+  height: 1px;
+  width: 30em;
+}
+
+.contact-wrapper .contact-footer .contact-heading {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
+  color: white;
+  max-width: 440px;
+  margin-left: 5em;
+  margin-bottom: 5em;
+}
+
+.contact-wrapper .contact-footer .contact-span {
+  color: #bbbbbb;
+  max-width: 440px;
+  font-family: 'Open Sans', sans-serif;
+  margin-right: 10em;
+  margin-bottom: 5em;
+}
+
+.contact-wrapper .contact-footer .contact-thank {
+  font-family: 'Playfair Display', serif;
+  margin-top: 1em;
+  color: white;
+  padding-bottom: 2em;
+}
+
+.footer-social-links .footer-social-links-ul {
+  background-color: #202020;
+  height: 4em;
+}
+
+.footer-social-links .footer-social-links-ul li {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-left: 1em;
+}
+
+.footer-social-links .footer-social-links-ul a {
+  padding-top: 2em;
+  font-size: .7em;
+  font-family: 'Open Sans', sans-serif;
+  color: #e2e2e2;
+}
+/*# sourceMappingURL=Contact.css.map */

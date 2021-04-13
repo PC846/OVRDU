@@ -1,0 +1,36 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.menu-ul {
+  position: fixed;
+  top: 10em;
+  left: 17em;
+  font-size: .8em;
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
+  z-index: 5;
+}
+
+.menu-ul ul, .menu-ul li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.menu-ul a {
+  color: black;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.menu-ul a:focus {
+  border: .1em black solid;
+  text-decoration: none;
+  padding: .1em;
+}
+
+.menu-ul a:hover {
+  text-decoration: none;
+  color: black;
+}
+/*# sourceMappingURL=NavBar.css.map */

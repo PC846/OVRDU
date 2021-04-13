@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    
+
+}
+.lion{
+    position: absolute;
+    top: 10em;
+    right: 35em;
+    height: 50%;
+    width: 100%;
+    margin: auto;
+    stroke: rgb(0, 0, 0);
+    stroke-width: 8px;
+    fill: transparent;
+    stroke-dashoffset: -3350;
+    stroke-dasharray: 3350;
+    animation: lion-animation 7s forwards;
+
+}
+
+@keyframes lion-animation {
+    0% {
+        stroke-dashoffset: -3350;
+    }
+    35% {
+        stroke-dashoffset: 0;   
+    }
+    65% {
+        stroke-dashoffset: 0;
+    }
+    100% {
+        stroke-dashoffset: 0;
+    }
+}

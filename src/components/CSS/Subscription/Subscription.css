@@ -1,0 +1,215 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Overpass:wght@800&family=Playfair+Display&display=swap");
+.subs-wrapper {
+  height: 100vh;
+  position: absolute;
+  left: 52em;
+  top: 116em;
+}
+
+.subs-wrapper .subs-wrapper-container {
+  width: 1440px;
+  min-width: 1440px;
+  margin: 0 auto;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 50%;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner {
+  width: 400px;
+  color: black;
+  margin: 0 auto;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner h1 {
+  font-weight: 500;
+  font-size: 30px;
+  margin-top: 3em;
+  font-family: 'Playfair Display', serif;
+  font-weight: 800;
+  text-align: right;
+  padding-bottom: 1em;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .check-out {
+  padding-top: 2em;
+  font-family: 'Playfair Display', serif;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .section-two {
+  position: absolute;
+  font-family: 'Playfair Display', serif;
+  font-size: 10px;
+  left: 10em;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .black-bar {
+  width: 30em;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .black-bar-2 {
+  background: #cecece;
+  margin-top: 10em;
+  margin-left: -5em;
+  width: 30em;
+  height: 1px;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .btn-row {
+  position: relative;
+  top: 5em;
+  left: 12em;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .btn-row:before {
+  position: absolute;
+  content: "";
+  width: 56px;
+  height: 1px;
+  background: #dfdfdf;
+  top: 50%;
+  left: -68px;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .btn-row button {
+  background: none;
+  border: none;
+  font-size: 12px;
+  padding: 0;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: 'Overpass', sans-serif;
+  letter-spacing: 0.7px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .btn-row button:focus {
+  outline: none;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .btn-row button:after {
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #bdbdbd;
+  position: absolute;
+  left: -2050px;
+  top: 50%;
+  z-index: -1;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+.subs-wrapper .subs-wrapper-container .subs-content .subs-content-inner .btn-row button:hover:after {
+  padding: .5em;
+  left: 0;
+  border-radius: 50px;
+}
+
+.sub-images {
+  width: 50%;
+  height: 100vh;
+  position: relative;
+}
+
+.sub-images .sub-images-inner .sub-image {
+  position: absolute;
+}
+
+.sub-images .sub-images-inner .sub-image.reading {
+  bottom: 20em;
+  right: 40em;
+  width: 200%;
+  height: 100%;
+  z-index: 1;
+}
+
+.sub-images .sub-images-inner .sub-image.bookPackage {
+  bottom: 84px;
+  right: 40em;
+  width: 250%;
+  height: 100%;
+}
+
+.sub-images .sub-images-inner .sub-image.donate {
+  right: 30em;
+  bottom: 32em;
+  width: 120%;
+  height: 60%;
+  z-index: 2;
+}
+
+.sub-images .sub-images-inner .sub-image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.subscription-wrapper {
+  position: absolute;
+}
+
+.subscription-wrapper .subscription-inner .subscription-content .black-bar-5 {
+  position: absolute;
+  right: 14em;
+  bottom: 24em;
+  background-color: black;
+  height: .5px;
+  width: 45em;
+}
+
+.subscription-wrapper .subscription-inner .subscription-content .section-four {
+  position: absolute;
+  right: 84em;
+  bottom: 37em;
+  font-family: 'Playfair Display', serif;
+  font-size: 10px;
+}
+
+.subscription-wrapper .subscription-inner .subscription-content .subscription-heading {
+  position: absolute;
+  right: 27em;
+  bottom: 8em;
+}
+
+.subscription-wrapper .subscription-inner .subscription-content .subscription-description {
+  position: absolute;
+  padding: 0;
+  width: 440px;
+  text-align: left;
+  right: 32em;
+  bottom: 4em;
+}
+
+.subscription-wrapper .subscription-inner .subscription-content .subscription-description .fake-btn {
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.subscription-wrapper .subscription-inner .subscription-content .subscription-description .fake-btn:hover {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=Subscription.css.map */
