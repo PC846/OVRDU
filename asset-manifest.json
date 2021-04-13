@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/OVRDU/static/css/main.c93172a0.chunk.css",
-    "main.js": "/OVRDU/static/js/main.229c9d37.chunk.js",
-    "main.js.map": "/OVRDU/static/js/main.229c9d37.chunk.js.map",
+    "main.css": "/OVRDU/static/css/main.99e25ad2.chunk.css",
+    "main.js": "/OVRDU/static/js/main.3dfdafa4.chunk.js",
+    "main.js.map": "/OVRDU/static/js/main.3dfdafa4.chunk.js.map",
     "runtime-main.js": "/OVRDU/static/js/runtime-main.b78ce732.js",
     "runtime-main.js.map": "/OVRDU/static/js/runtime-main.b78ce732.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/OVRDU/static/css/2.4c97ca4f.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.4f3b376f.chunk.js.map": "/OVRDU/static/js/2.4f3b376f.chunk.js.map",
     "index.html": "/OVRDU/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/OVRDU/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.c93172a0.chunk.css.map": "/OVRDU/static/css/main.c93172a0.chunk.css.map",
+    "static/css/main.99e25ad2.chunk.css.map": "/OVRDU/static/css/main.99e25ad2.chunk.css.map",
     "static/js/2.4f3b376f.chunk.js.LICENSE.txt": "/OVRDU/static/js/2.4f3b376f.chunk.js.LICENSE.txt",
     "static/media/book-package.6a931589.jpg": "/OVRDU/static/media/book-package.6a931589.jpg",
     "static/media/book-store.3d12d7a0.jpg": "/OVRDU/static/media/book-store.3d12d7a0.jpg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.b78ce732.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.4f3b376f.chunk.js",
-    "static/css/main.c93172a0.chunk.css",
-    "static/js/main.229c9d37.chunk.js"
+    "static/css/main.99e25ad2.chunk.css",
+    "static/js/main.3dfdafa4.chunk.js"
   ]
 }
