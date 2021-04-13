@@ -12,6 +12,8 @@ import {Carousel} from "react-bootstrap"
 gsap.registerPlugin(ScrollTrigger);
 
 const About = () => {
+
+    // GSAP scroll-trigger for first section of the website. I am unsure if I want to work with it so I am keeping it here for now.
     let tl = new TimelineLite({delay:0.3})
 
     // useEffect(()=> {
@@ -112,9 +114,9 @@ const About = () => {
                     <div className="cero-images">
                             <div className="cero-images-inner">
                                 <div className="cero-image ceo">
-                                    <img src={ceo} alt="Jay Baccay"></img>
+                                    <img src={ceo} alt="Stella Coronado"></img>
                                     <cite> 
-                                    Jaqueline "Jay" Baccay
+                                    Jacqueline "Jay" Baccay
                                     
                                     Founder of OVRDU</cite>
                                 </div>
