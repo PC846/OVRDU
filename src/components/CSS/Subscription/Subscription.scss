@@ -5,8 +5,8 @@
 .subs-wrapper {
     height: 100vh;
     position: absolute;
-    left: 52em;
-    top: 116em;
+    left: 72em;
+    top: 126em;
     .subs-wrapper-container{
         width: 1440px;
         min-width:1440px;
@@ -26,12 +26,20 @@
                 h1{
                     font-weight: 500;
                     font-size: 30px;
-                    margin-top: 3em;
+                    margin-top: 8em;
                     font-family: 'Playfair Display', serif;
                     font-weight: 800;
                     text-align: right;
                     padding-bottom: 1em;
                     
+                }
+
+                .subs-description-three{
+                  margin-top:3em;
+                }
+
+                .heading-three{
+                  margin-top:3em;
                 }
                 .check-out{
                     
@@ -42,11 +50,15 @@
                         position:absolute;
                         font-family: 'Playfair Display', serif;
                         font-size: 10px;
-                        left: 10em;
+                        top: 16em;
+                        left: -11em;
                     }
                 
                 .black-bar{
-                    width: 30em;
+                  position:absolute;
+                  top: 10em;
+                  left: -10em;
+                  width: 47em;
                 }
                 .black-bar-2{
                     background:rgb(206, 206, 206);
@@ -131,22 +143,22 @@
       position: absolute;
       &.reading {
         bottom: 20em;
-        right: 40em;
-        width: 200%;
+        right: 60em;
+        width: 300%;
         height: 100%;
         z-index: 1;
       }
       &.bookPackage {
-        bottom: 84px;
-        right: 40em;
-        width: 250%;
+        bottom: 14px;
+        right: 50em;
+        width: 350%;
         height: 100%;
       }
 
       &.donate {
-        right: 30em;
-        bottom: 32em;
-        width: 120%;
+        right: 45em;
+        bottom: 42em;
+        width: 170%;
         height: 60%;
         z-index: 2;
       }
@@ -168,7 +180,7 @@
     .subscription-content{
       .black-bar-5{
         position:absolute;
-        right: 14em;
+        right: 34em;
         bottom: 24em;
         background-color: black;
         height: .5px;
@@ -177,7 +189,7 @@
 
       .section-four{
         position:absolute;
-        right: 84em;
+        right: 114em;
         bottom: 37em;
         font-family: 'Playfair Display', serif;
         font-size: 10px;
@@ -186,7 +198,7 @@
 
       .subscription-heading{
         position:absolute;
-        right: 27em;
+        right: 37em;
         bottom: 8em;
       }
 
@@ -195,7 +207,7 @@
         padding:0;
         width: 440px;
         text-align: left;
-        right: 32em;
+        right: 50em;
         bottom: 4em;
 
         .fake-btn{

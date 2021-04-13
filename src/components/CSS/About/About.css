@@ -11,9 +11,9 @@
   position: absolute;
   background: #cecece;
   height: 1px;
-  left: 57em;
+  left: 67em;
   width: 25em;
-  top: 76em;
+  top: 90em;
 }
 
 .black-bar-3 {
@@ -27,6 +27,7 @@
 
 .about-wrapper {
   height: 100vh;
+  margin-right: 40em;
 }
 
 .about-wrapper .about-wrapper-container {
@@ -74,9 +75,9 @@
 }
 
 .about-wrapper .about-wrapper-container .about-content .about-content-inner .hero-images .hero-images-inner .hero-image.cleaning {
-  top: 12em;
-  left: 200px;
-  width: 160%;
+  top: 32em;
+  left: 360px;
+  width: 170%;
   height: 100%;
   z-index: 2;
 }
@@ -92,7 +93,7 @@
 
 .carousel {
   position: absolute;
-  top: 70em;
+  top: 80em;
   left: 0em;
   width: 40%;
 }
@@ -112,15 +113,15 @@
 
 .content-wrapper .heading-one-description {
   position: absolute;
-  max-width: 440px;
+  max-width: 740px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   left: 60em;
-  top: 59em;
+  top: 70em;
 }
 
 .content-wrapper .heading-one-description .btn-row {
-  position: relative;
+  position: absolute;
   top: 5em;
   left: 20em;
 }
@@ -132,7 +133,7 @@
   height: 1px;
   background: #dfdfdf;
   top: 50%;
-  left: -68px;
+  left: -108px;
 }
 
 .content-wrapper .heading-one-description .btn-row button {
@@ -167,7 +168,7 @@
   border-radius: 50%;
   background-color: #bdbdbd;
   position: absolute;
-  left: -850px;
+  left: -750px;
   top: 50%;
   z-index: -1;
   -webkit-transition: 0.3s ease;
@@ -182,8 +183,8 @@
 
 .content-wrapper .heading-one-description-two {
   position: absolute;
-  left: 55em;
-  top: 79em;
+  left: 65em;
+  top: 95em;
   font-family: 'Playfair Display', serif;
   font-weight: bold;
   max-width: 440px;
@@ -261,6 +262,7 @@
   position: relative;
   top: 22em;
   left: 18em;
+  z-index: 1;
 }
 
 .content-wrapper .heading-one-description-two .btn-row:before {
@@ -305,7 +307,7 @@
   border-radius: 50%;
   background-color: #bdbdbd;
   position: absolute;
-  left: -850px;
+  left: -750px;
   top: 50%;
   z-index: -1;
   -webkit-transition: 0.3s ease;

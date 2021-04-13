@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Overpass:wght@800&family=Playfair+Display&display=swap");
 .app-wrapper .form-wrapper {
   position: absolute;
-  top: 152em;
-  left: 62em;
+  top: 172em;
+  left: 82em;
   z-index: 4;
 }
 

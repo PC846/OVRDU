@@ -157,7 +157,7 @@ html {
   border-radius: 50%;
   background-color: #bdbdbd;
   position: absolute;
-  left: -250px;
+  left: -750px;
   top: 50%;
   z-index: -1;
   -webkit-transition: 0.3s ease;

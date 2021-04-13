@@ -1,11 +1,11 @@
 .booktiles-wrapper {
   position: relative;
   top: 14em;
-  left: 12em;
+  left: 22em;
 }
 
 .booktiles-wrapper .booktiles-inner-wrapper .booktiles-content {
-  width: 10em;
+  width: 14em;
 }
 
 .booktiles-wrapper .booktiles-inner-wrapper .booktiles-content ul {

@@ -93,11 +93,10 @@ const Header = () => {
                     </div>
                   </h1>
                   <p className="main-quote">
-                    "Literature simulates life. <br />
-                    A novel is a story of what never was, a play is a novel
-                    without narration. <br />
-                    A poem is the expression of ideas or feelings a language no
-                    one uses, because no one talks in verse." <br />
+                    Books are made from the plants that our earth provides. Because of
+                    it we are able create our own little worlds that are formed from the pages
+                    of books. Here are OVRDU we recognize the ties that the environment has with
+                    literature and strive to protect it. 
                   </p>
                   <div className="btn-row">
                     <button className="about-button">
