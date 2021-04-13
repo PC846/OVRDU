@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/OVRDU/static/css/main.c93172a0.chunk.css",
+    "main.js": "/OVRDU/static/js/main.229c9d37.chunk.js",
+    "main.js.map": "/OVRDU/static/js/main.229c9d37.chunk.js.map",
+    "runtime-main.js": "/OVRDU/static/js/runtime-main.b78ce732.js",
+    "runtime-main.js.map": "/OVRDU/static/js/runtime-main.b78ce732.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/OVRDU/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4f3b376f.chunk.js": "/OVRDU/static/js/2.4f3b376f.chunk.js",
+    "static/js/2.4f3b376f.chunk.js.map": "/OVRDU/static/js/2.4f3b376f.chunk.js.map",
+    "index.html": "/OVRDU/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/OVRDU/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c93172a0.chunk.css.map": "/OVRDU/static/css/main.c93172a0.chunk.css.map",
+    "static/js/2.4f3b376f.chunk.js.LICENSE.txt": "/OVRDU/static/js/2.4f3b376f.chunk.js.LICENSE.txt",
+    "static/media/book-package.6a931589.jpg": "/OVRDU/static/media/book-package.6a931589.jpg",
+    "static/media/book-store.3d12d7a0.jpg": "/OVRDU/static/media/book-store.3d12d7a0.jpg",
+    "static/media/ceo.28cabfb8.jpg": "/OVRDU/static/media/ceo.28cabfb8.jpg",
+    "static/media/cleaning.2849813d.jpg": "/OVRDU/static/media/cleaning.2849813d.jpg",
+    "static/media/donate.22c26d4a.jpg": "/OVRDU/static/media/donate.22c26d4a.jpg",
+    "static/media/garbage-truck.9d39e850.jpg": "/OVRDU/static/media/garbage-truck.9d39e850.jpg",
+    "static/media/good-book.236c02e9.jpg": "/OVRDU/static/media/good-book.236c02e9.jpg",
+    "static/media/milk-honey.7da38243.jpg": "/OVRDU/static/media/milk-honey.7da38243.jpg",
+    "static/media/package-books.9f88d1c5.jpg": "/OVRDU/static/media/package-books.9f88d1c5.jpg",
+    "static/media/pile-books.a2ebf563.jpg": "/OVRDU/static/media/pile-books.a2ebf563.jpg",
+    "static/media/reading.3b32e937.jpg": "/OVRDU/static/media/reading.3b32e937.jpg",
+    "static/media/yellow-tree.2508607c.jpg": "/OVRDU/static/media/yellow-tree.2508607c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b78ce732.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4f3b376f.chunk.js",
+    "static/css/main.c93172a0.chunk.css",
+    "static/js/main.229c9d37.chunk.js"
+  ]
+}
